@@ -258,6 +258,24 @@ body {
   display: none;
 }
 
+a.our-partner {
+  text-decoration: none;
+  color: #000000;
+}
+
+div.op {
+  margin-bottom: 40px;
+  border-bottom: 3px solid #000;
+}
+
+.btn-active-ourpartner {
+  background-color: #2a7ba8;
+  color: white;
+}
+.btn-inactive-ourpartner {
+  background-color: #ededf0;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .btn-navbar {
